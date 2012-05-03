@@ -94,5 +94,8 @@ cd ~/
 
 ./OMGBOT/showcasemtd.sh
 
+./OMGBOT/pecan.sh
+
+
 exit
 
